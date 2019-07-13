@@ -1,0 +1,83 @@
+.navbar-default {
+  background-color：＃a8deff;
+  border-color：＃ed1f0a;
+}
+.navbar-default .navbar-brand {
+  颜色：＃1a1b1b;
+}
+.navbar-default .navbar-brand：悬停，
+.navbar-default .navbar-brand：focus {
+  颜色：#fefefe;
+}
+.navbar-default .navbar-text {
+  颜色：＃1a1b1b;
+}
+.navbar-default .navbar-nav> li> a {
+  颜色：＃1a1b1b;
+}
+.navbar-default .navbar-nav> li> a：悬停，
+.navbar-default .navbar-nav> li> a：focus {
+  颜色：#fefefe;
+}
+.navbar-default .navbar-nav> li> .dropdown-menu {
+  background-color：＃a8deff;
+}
+.navbar-default .navbar-nav> li> .dropdown-menu> li> a {
+  颜色：＃1a1b1b;
+}
+.navbar-default .navbar-nav> li> .dropdown-menu> li> a：悬停，
+.navbar-default .navbar-nav> li> .dropdown-menu> li> a：focus {
+  颜色：#fefefe;
+  background-color：＃ed1f0a;
+}
+.navbar-default .navbar-nav> li> .dropdown-menu> li.divider {
+  background-color：＃ed1f0a;
+}
+.navbar-default .navbar-nav> .active> a，
+.navbar-default .navbar-nav> .active> a：悬停，
+.navbar-default .navbar-nav> .active> a：focus {
+  颜色：#fefefe;
+  background-color：＃ed1f0a;
+}
+.navbar-default .navbar-nav> .open> a，
+.navbar-default .navbar-nav> .open> a：悬停，
+.navbar-default .navbar-nav> .open> a：focus {
+  颜色：#fefefe;
+  background-color：＃ed1f0a;
+}
+.navbar-default .navbar-toggle {
+  border-color：＃ed1f0a;
+}
+.navbar-default .navbar-toggle：hover，
+.navbar-default .navbar-toggle：focus {
+  background-color：＃ed1f0a;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color：＃1a1b1b;
+}
+.navbar-default .navbar-collapse，
+.navbar-default .navbar-form {
+  border-color：＃1a1b1b;
+}
+.navbar-default .navbar-link {
+  颜色：＃1a1b1b;
+}
+.navbar-default .navbar-link：hover {
+  颜色：#fefefe;
+}
+
+@media（max-width：767px）{
+  .navbar-default .navbar-nav .open .dropdown-menu> li> a {
+    颜色：＃1a1b1b;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu> li> a：悬停，
+  .navbar-default .navbar-nav .open .dropdown-menu> li> a：focus {
+    颜色：#fefefe;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu> .active> a，
+  .navbar-default .navbar-nav .open .dropdown-menu> .active> a：悬停，
+  .navbar-default .navbar-nav .open .dropdown-menu> .active> a：focus {
+    颜色：#fefefe;
+    background-color：＃ed1f0a;
+  }
+}

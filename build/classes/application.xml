@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id="UserDao" class="cn.edu.lingnan.dao.daoimp.UserDaoImp" />
+	<bean id="ProductDao" class="cn.edu.lingnan.dao.daoimp.ProductDaoImp" />
+	<bean id="CategoryDao" class="cn.edu.lingnan.dao.daoimp.CategoryDaoImp" />
+	<bean id="CartItemDao" class="cn.edu.lingnan.dao.daoimp.CartItemDaoImp" />
+	<bean id="AdminDao" class="cn.edu.lingnan.dao.daoimp.AdminDaoImp" />
+	
+</beans>
